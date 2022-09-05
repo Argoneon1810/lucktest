@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">운 테스트</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">운 테스트</string>
+    <string name="second_fragment_label">사용 방법</string>
+    <string name="next">다음</string>
+    <string name="previous">이전</string>
+
+    <!-- first fragment -->
+    <string name="cont_desc_btn_col_exp">디테일 세팅 메뉴를 열고 닫습니다</string>
+    <string name="cont_desc_slider">검사하고자 하는 값 범위를 지정할 수 있습니다</string>
+    <string name="cont_desc_list_of_results">결과 리스트</string>
+    <string name="btn_apply">적용</string>
+    <string name="txt_direction_note">의사난수 생성 방식을 선택해 주십시오</string>
+    <string name="txt_direction_note2">검사하고자 하는 값 범위를 지정해 주십시오</string>
+    <string name="txt_direction_note3">다중 검사 모드에서 한번에 실행할 회수를 지정해 주십시오</string>
+    <string name="txt_try_once">각개 검사</string>
+    <string name="txt_mass_case">다중 검사</string>
+    <string name="txt_mass_case_num">다중 검사 모드에서의 실행 회수</string>
+    <string name="txt_min_val">최소 범위 값</string>
+    <string name="txt_max_val">최대 범위 값</string>
+
+    <!-- action menu -->
+    <string name="action_help">도움말</string>
+
+    <!-- help menu -->
+    <string name="txt_help1">먼저 원하는 의사난수 생성 (이하 PRNG) 방식을 선택하십시오.</string>
+    <string name="txt_help3">만약 원하는 PRNG 방법이 앱에 존재하지 않는다면 해당 방법에 대한 간략한 설명을 첨부한 이메일을 제게 보내 주시면 이후 추가하겠습니다.</string>
+    <string name="txt_help2">적용 대상이 되는 컨텐츠 (예: 롤의 헥스텍 상자 등)에서 사용하는 PRNG 방법을 알고 있다면 그것을 선택하십시오. 모르신다면 아무 것이나 선택하셔도 무방합니다. PRNG 방식은 결과에 영향을 끼칠 수 있습니다.</string>
+    <string name="txt_help4">이 세팅 메뉴는 자유롭게 닫거나 열 수 있습니다. 결과를 보는 데에 방해가 된다면 닫을 수 있습니다.</string>
+    <string name="txt_help5">\'각개 검사\' 버튼을 누르면 지금 이 순간의 당신의 운을 시험해 볼 수 있습니다. 이 결과는 테두리로 표시되어 다른 결과들과 구분할 수 있습니다.</string>
+    <string name="txt_help6">\'다중 검사\' 버튼을 누르면 당신이 지정한 횟수 만큼 운 테스트가 실행됩니다.</string>
+    <string name="txt_help7">결과 항목을 오래 누르면 몇가지 중요 숫자들을 확인할 수 있습니다. 결과값이 얼마였는가, 어떤 값 범위에 들었어야 했는가, 어떤 모드에서 실행되었는가 등의 정보가 여기에 포함될 수 있습니다.</string>
+    <string name="txt_pass">성공</string>
+    <string name="txt_fail">실패</string>
+    <string name="txt_indiv_label">각개 실행?</string>
+    <string name="txt_thisval_label">생성 값</string>
+    <string name="txt_range_label">유효 범위</string>
+    <string name="txt_mode_label">PRNG 모드</string>
+    <string name="txt_result_label">결과</string>
+    <string name="txt_yes">네</string>
+    <string name="txt_no">아니오</string>
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">lucktest</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Luck Test</string>
+    <string name="second_fragment_label">How To Use</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+
+    <!-- first fragment -->
+    <string name="cont_desc_btn_col_exp">it collapses and expands the detail setting menu</string>
+    <string name="cont_desc_slider">you can set a range of interest with this</string>
+    <string name="cont_desc_list_of_results">list of results</string>
+    <string name="rbtn_class_random" translatable="false">Class Random</string>
+    <string name="rbtn_math_random" translatable="false">Math.random()</string>
+    <string name="btn_apply">Apply</string>
+    <string name="txt_direction_note">Please select a pseudo-random number generation method.</string>
+    <string name="txt_direction_note2">What is a range of value you are interested with?</string>
+    <string name="txt_direction_note3">How many test case should I run at once for mass case mode?</string>
+    <string name="txt_try_once">try once</string>
+    <string name="txt_mass_case">mass case</string>
+    <string name="txt_mass_case_num">number of operation per mass case run</string>
+    <string name="txt_min_val">min value</string>
+    <string name="txt_max_val">max value</string>
+
+    <!-- action menu -->
+    <string name="action_help">Help</string>
+
+    <!-- help menu -->
+    <string name="txt_help1">First, select your desired pseudo-random number generation (PRNG) method.</string>
+    <string name="txt_help3">If the PRNG method you want to use is not included in this app, email me with brief explanation of that method. I will add those.</string>
+    <string name="txt_help2">If you know the PRNG method of your target of application (eg. hextech box of LoL), please select that. Otherwise, choose any of your desire. It may affect the result.</string>
+    <string name="txt_help4">You can collapse or expand this settings menu freely if it disturbs you seeing the result.</string>
+    <string name="txt_help5">When you press \'try one\' button, you can try your luck of right at this moment. The result of these will be framed so that you can distinguish.</string>
+    <string name="txt_help6">When you press \'mass case\' button, the lucktest will be operated for an amount of times you set.</string>
+    <string name="txt_help7">When you long press the result, you can see several important values. It can include what value you got, the range of value it had to enter, and by what mode it was operated.</string>
+    <string name="txt_pass">Pass</string>
+    <string name="txt_fail">Fail</string>
+    <string name="txt_indiv_label">Individual Run?</string>
+    <string name="txt_thisval_label">Created Value</string>
+    <string name="txt_range_label">Valid Range</string>
+    <string name="txt_mode_label">PRNG Mode</string>
+    <string name="txt_result_label">Result</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+</resources>
